@@ -1,0 +1,6 @@
+/Users/alikeyvaz/RiderProjects/ders8ci/ders8ci/bin/Debug/ders8ci.exe
+/Users/alikeyvaz/RiderProjects/ders8ci/ders8ci/bin/Debug/ders8ci.pdb
+/Users/alikeyvaz/RiderProjects/ders8ci/ders8ci/obj/Debug/ders8ci.csproj.AssemblyReference.cache
+/Users/alikeyvaz/RiderProjects/ders8ci/ders8ci/obj/Debug/ders8ci.csproj.CoreCompileInputs.cache
+/Users/alikeyvaz/RiderProjects/ders8ci/ders8ci/obj/Debug/ders8ci.exe
+/Users/alikeyvaz/RiderProjects/ders8ci/ders8ci/obj/Debug/ders8ci.pdb
